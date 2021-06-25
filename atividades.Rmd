@@ -1,0 +1,10 @@
+---
+title: "Resoluções"
+author: "Samuel Gonçalves"
+date: "25/06/2021"
+output: pdf_document
+---
+
+
+### 5.9
+#### c) Seja a métrica de Minkowski $E_{p} = \frac{1}{r}\sum_{i=1}^{M}|\hat{y}_{pi} - y_{pi}|^{r}$
